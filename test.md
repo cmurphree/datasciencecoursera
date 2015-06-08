@@ -1,5 +1,5 @@
 ## Hello World
 
-The motivation for completed the Data Science Coursework is
+The motivation for completing the Data Science coursework:
 * Dive into biostatistics prior to graduate school
-* Develop a convenient solution for diet recalls with inflammatory index markers 
+* Develop a convenient solution for diet recalls linking inflammatory index markers 
